@@ -160,3 +160,55 @@ void ofApp::draw(){
     
 }
 
+// player func
+void ofApp::play(){
+    
+}
+
+void ofApp::pause(){
+    
+}
+
+void ofApp::backToTop(){
+    
+}
+
+void ofApp::tobbleBlack(){
+    
+}
+
+void ofApp::tobbleWhite(){
+    
+}
+
+void ofApp::tobbleFullscreen(){
+    
+}
+
+void ofApp::set1280x1024(){
+    
+}
+
+void ofApp::tobbleInfo(){
+    
+}
+
+void ofApp::tobbleLineNoise(){
+    
+}
+
+void ofApp::setLineNoiseColor(float r, float g ,float b, float a){
+    
+}
+
+void ofApp::tobbleDotNoise(){
+    
+}
+
+void ofApp::setDotNoiseColor(float r, float g ,float b, float a){
+    
+}
+
+void ofApp::setPositionMs(int ms){
+    
+}
